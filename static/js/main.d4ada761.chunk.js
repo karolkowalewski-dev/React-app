@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-app"]=this["webpackJsonpreact-app"]||[]).push([[0],{3:function(e,t,a){e.exports=a(9)},9:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n),c=a(2),p=a.n(c);var s=function(){return r.a.createElement("div",{className:"f1 vh-100 tc orange b pv6 avenir"},r.a.createElement("p",null,"Dzia\u0142a Grzesiu :)"))};a(8);p.a.render(r.a.createElement(s,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.d4ada761.chunk.js.map
